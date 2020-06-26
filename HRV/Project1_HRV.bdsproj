@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">W32ResourceDLL.Personality</Option>
+      <Option Name="ProjectType">ResourceDLL</Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{7759FB2D-9661-48EF-94BB-635EA4F62FAC}</Option>
+    </Option>
+  </PersonalityInfo>
+  <W32ResourceDLL.Personality>
+    <Source>
+      <Source Name="MainSource">Project1.dpr</Source>
+    </Source>
+    <Options>
+      <Options Name="BaseLang">1050</Options>
+      <Options Name="TargetName">..\.\Project1.HRV</Options>
+      <Options Name="BRCC_IncludePath">..\..\..\Downloads\;Roullette++\</Options>
+      <Options Name="Company"></Options>
+      <Options Name="Configuration"></Options>
+      <Options Name="Copyright"></Options>
+      <Options Name="Description"></Options>
+      <Options Name="Trademark"></Options>
+      <Options Name="Product"></Options>
+      <Options Name="ProductVersion"></Options>
+      <Options Name="Title"></Options>
+      <Options Name="FileVersion"></Options>
+      <Options Name="Evidence"></Options>
+      <Options Name="KeyFile"></Options>
+      <Options Name="KeyName"></Options>
+    </Options>
+    <FileList>
+      <File FileName="pocetna.dfm" ContainerId="W32Form" ModuleName="pocetna.dfm"/>
+      <File FileName="Unit2.dfm" ContainerId="W32Form" ModuleName="Unit2.dfm"/>
+      <File FileName="Unit3.dfm" ContainerId="W32Form" ModuleName="Unit3.dfm"/>
+      <File FileName="Unit4.dfm" ContainerId="W32Form" ModuleName="Unit4.dfm"/>
+      <File FileName="Unit5.dfm" ContainerId="W32Form" ModuleName="Unit5.dfm"/>
+      <File FileName="Project1_DRC.rc" ContainerId="W32RC" ModuleName="Project1_DRC.rc"/>
+    </FileList>
+  </W32ResourceDLL.Personality>
+</BorlandProject>
