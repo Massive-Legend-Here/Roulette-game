@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.373,=C:\Users\David\Desktop\Projekti C++\Roullette++\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.675,=C:\Users\David\Desktop\Projekti C++\Roullette++\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\David\Documents\Embarcadero\Studio\Projects\Roullette++\pocetna.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.418,=C:\Users\David\Desktop\Projekti C++\Roullette++\popis.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,C:\Users\David\Downloads\reinit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\David\Documents\Embarcadero\Studio\Projects\Roullette++\pocetna.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.646,=C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,=C:\Users\David\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.341,C:\Users\David\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\David\Documents\Embarcadero\Studio\Projects\Roullette++\rulet.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\David\Documents\Embarcadero\Studio\Projects\Roullette++\pocetna.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.126,=C:\Users\David\Documents\Embarcadero\Studio\Projects\Roullette++\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,=C:\Users\David\Desktop\Projekti C++\Roullette++\reinit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,=C:\Users\Bruno\Downloads\Roullette++\Roullette++\popis.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,=C:\Users\David\Desktop\Projekti C++\Roullette++\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,=C:\Users\David\Desktop\Roullette++ V3.2\Project1.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\Users\David\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\David\Documents\Embarcadero\Studio\Projects\Roullette++\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,=C:\Users\David\Downloads\reinit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.263,=C:\Users\David\Desktop\Projekti C++\Roullette++\igraci.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.256,=C:\Users\David\Desktop\Projekti C++\Roullette++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,C:\Users\David\Desktop\Projekti C++\Roullette++\Unit1.cpp=</Transaction>
+    <Transaction>2020.06.26 10:43:07.725,C:\Users\David\Desktop\Roullette++ V1.0\Roulette.cbproj=C:\Users\David\Desktop\Roullette++ V1.0\Project1.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="rulet.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit3.h"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit4.h"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit5.h"/>
+    <File Path="pocetna.cpp"/>
+    <File Path="pocetna.cpp"/>
+    <File Path="pocetna.dfm"/>
+    <File Path="pocetna.h"/>
+    <File Path="popis.cpp"/>
+    <File Path="popis.cpp"/>
+    <File Path="popis.h"/>
+    <File Path="Roulette.cpp"/>
+    <File Path="Project1.lib"/>
+    <File Path="reinit.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
